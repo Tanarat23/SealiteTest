@@ -22,6 +22,7 @@ let obj = {
   R: 1000,
 };
 
+// ############################ LOGIC IDEA
 // function alienNumeral(str) {
 //   let sum = 0;
 //   let arr = [];
@@ -51,6 +52,7 @@ let obj = {
 //   return sum;
 // }
 
+// ############################ OUTPUT
 function alienNumeral(str) {
   let sum = 0;
 
